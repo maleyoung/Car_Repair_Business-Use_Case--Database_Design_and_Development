@@ -10,6 +10,7 @@ A project for my Master's Degree to develop a proposal for creating a database s
 - Structuring System Data Requirements
 - Database Conceptual Design
 - Logical and Physical Database Design
+- Testing and Quality Assurance
 - Implementation & Deployment
 
 
