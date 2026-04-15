@@ -1,4 +1,4 @@
-# Car Repair Business Use Case - Database Design and Development
+# Database Design and Development - Car Repair Business Use Case
 A project for my Master's Degree to develop a proposal for creating a database system for a Car Repair business. 
 
 - Credit: Bellevue University 
